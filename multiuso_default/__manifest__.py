@@ -72,7 +72,7 @@
 
     # list of url repos to install in the form 'repo-url directory'
     'git-repos': [
-        'git@github.com:jobiols/cl-multiuso.git',
+        'git@github.com:siseservicios/cl-multiuso.git',
 
         'https://github.com/ingadhoc/odoo-argentina-ee',
         'https://github.com/ingadhoc/account-payment',
