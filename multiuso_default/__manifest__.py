@@ -20,7 +20,7 @@
 
 {
     'name': 'multiuso',
-    'version': '15.0.0.0.0',
+    'version': '15.0.1.0.0',
     'category': 'Tools',
     'summary': "Test for v15 EE",
     'author': "jeo Software",
@@ -74,19 +74,19 @@
     'git-repos': [
         'git@github.com:siseservicios/cl-multiuso.git',
 
-        'https://github.com/ingadhoc/odoo-argentina-ee',
-        'https://github.com/ingadhoc/account-payment',
-        'https://github.com/ingadhoc/account-financial-tools',
-        'https://github.com/ingadhoc/account-invoicing',
-        'https://github.com/ingadhoc/odoo-argentina',
+        'https://github.com/ingadhoc/odoo-argentina ingadhoc-odoo-argentina',
+        'https://github.com/ingadhoc/account-financial-tools ingadhoc-account-financial-tools',
+        'https://github.com/ingadhoc/account-invoicing ingadhoc-account-invoicing',
+        'https://github.com/ingadhoc/account-payment ingadhoc-account-payment',
+        'https://github.com/ingadhoc/odoo-argentina-ee ingadhoc-odoo-argentina-ee',
 
-        'https://github.com/ingadhoc/partner',
+        'https://github.com/ingadhoc/partner ingadhoc-partner',
 
-        'https://github.com/OCA/brand',
-        'https://github.com/OCA/partner-contact',
-        'https://github.com/OCA/server-ux',
-        'https://github.com/OCA/server-tools',
-        'https://github.com/OCA/web',
+        'https://github.com/OCA/brand oca-brand',
+        'https://github.com/OCA/partner-contact oca-partner-contact',
+        'https://github.com/OCA/server-ux oca-server-ux',
+        'https://github.com/OCA/server-tools oca-server-tools',
+        'https://github.com/OCA/web oca-web',
     ],
 
     # list of images to use in the form 'name image-url'
