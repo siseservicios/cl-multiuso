@@ -87,6 +87,7 @@
         'https://github.com/OCA/server-ux oca-server-ux',
         'https://github.com/OCA/server-tools oca-server-tools',
         'https://github.com/OCA/web oca-web',
+        'https://github.com/OCA/commission.git oca-commission',        
     ],
 
     # list of images to use in the form 'name image-url'
