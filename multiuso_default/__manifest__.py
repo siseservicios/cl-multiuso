@@ -79,7 +79,7 @@
         'https://github.com/ingadhoc/account-invoicing ingadhoc-account-invoicing',
         'https://github.com/ingadhoc/account-payment ingadhoc-account-payment',
         'https://github.com/ingadhoc/odoo-argentina-ee ingadhoc-odoo-argentina-ee',
-
+        'https://github.com/ingadhoc/argentina-sale.git ingadhoc-argentina-sale',
         'https://github.com/ingadhoc/partner ingadhoc-partner',
 
         'https://github.com/OCA/brand oca-brand',
