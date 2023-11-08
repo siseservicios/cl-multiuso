@@ -91,7 +91,6 @@
         'https://github.com/OCA/web oca-web',
         'https://github.com/OCA/stock-logistics-workflow oca-stock-logistics-workflow',
         'https://github.com/OCA/commission.git oca-commission',
-        'https://github.com/OCA/stock oca-stock',
     ],
 
     # list of images to use in the form 'name image-url'
