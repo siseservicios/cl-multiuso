@@ -72,8 +72,9 @@
 
     # list of url repos to install in the form 'repo-url directory'
     'git-repos': [
-        'git@github.com:siseservicios/cl-multiuso.git',
+        'https://github.com/jobiols/cl-test.git',
 
+        # # ingadhoc
         'https://github.com/ingadhoc/odoo-argentina ingadhoc-odoo-argentina',
         'https://github.com/ingadhoc/account-financial-tools ingadhoc-account-financial-tools',
         'https://github.com/ingadhoc/account-invoicing ingadhoc-account-invoicing',
@@ -81,18 +82,22 @@
         'https://github.com/ingadhoc/odoo-argentina-ee ingadhoc-odoo-argentina-ee',
         'https://github.com/ingadhoc/argentina-sale.git ingadhoc-argentina-sale',
         'https://github.com/ingadhoc/partner ingadhoc-partner',
+        'https://github.com/ingadhoc/stock ingadhoc-stock',
 
         'https://github.com/OCA/brand oca-brand',
         'https://github.com/OCA/partner-contact oca-partner-contact',
         'https://github.com/OCA/server-ux oca-server-ux',
         'https://github.com/OCA/server-tools oca-server-tools',
         'https://github.com/OCA/web oca-web',
-        'https://github.com/OCA/commission.git oca-commission',        
+        'https://github.com/OCA/stock-logistics-workflow oca-stock-logistics-workflow',
+        'https://github.com/OCA/commission.git oca-commission',
+        'https://github.com/OCA/stock oca-stock',
     ],
 
     # list of images to use in the form 'name image-url'
     'docker-images': [
         'odoo jobiols/odoo-ent:15.0e',
         'postgres postgres:10.1-alpine',
+        'nginx nginx',
     ]
 }
