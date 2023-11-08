@@ -22,7 +22,7 @@
     'name': 'multiuso',
     'version': '15.0.1.0.0',
     'category': 'Tools',
-    'summary': "Test for v15 EE",
+    'summary': "Proyecto multiuso",
     'author': "jeo Software",
     'license': 'AGPL-3',
     'depends': [
@@ -30,7 +30,7 @@
     'data': [
     ],
     'installable': True,
-    'application': True,
+    'application': False,
 
     'config': [
 
